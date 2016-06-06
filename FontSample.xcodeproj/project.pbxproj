@@ -36,6 +36,7 @@
 		C54D40A31D02937A006AF358 /* FontSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FontSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C54D40A71D02937A006AF358 /* FontSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontSampleTests.swift; sourceTree = "<group>"; };
 		C54D40A91D02937A006AF358 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C54D40E11D0576FB006AF358 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -233,6 +234,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				C54D409C1D02937A006AF358 /* Base */,
+				C54D40E11D0576FB006AF358 /* ja */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -388,6 +390,7 @@
 				C54D40AE1D02937A006AF358 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C54D40AF1D02937A006AF358 /* Build configuration list for PBXNativeTarget "FontSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -396,6 +399,7 @@
 				C54D40B11D02937A006AF358 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
